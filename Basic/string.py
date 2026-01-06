@@ -8,3 +8,6 @@ print(course[-2])
 print(course[0:3])
 print(course[0:])
 print(course[:5])
+
+print(id(course))
+print(id(course[0]))
