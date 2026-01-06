@@ -7,5 +7,5 @@
 # for x in range(0, 10, 2):
 #     print(x)
 
-print(range(50000000000))
-print(list([1, 2, 3, 4, 5, 6, 7]))
+print(range(100, 50))
+print([1, 2, 3, 4, 5, 6, 7])
