@@ -4,6 +4,7 @@ matrix = [[0, 1], [2, 3]]
 
 zeros = [0] * 10
 
+print(len(letters))
 
 combined = zeros + letters
 
