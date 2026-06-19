@@ -1,0 +1,10 @@
+# Database dependencies.
+#
+# Install into your active virtual environment:
+#   pip install -r requirements.txt
+#
+# `sqlite3` is part of the standard library — no install needed for 02_sqlite.
+# The ORM examples in 03_orms use SQLAlchemy + Alembic.
+
+SQLAlchemy>=2.0
+alembic>=1.13

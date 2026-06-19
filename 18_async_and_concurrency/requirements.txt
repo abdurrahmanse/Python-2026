@@ -1,0 +1,9 @@
+# Async and concurrency dependencies.
+#
+# Install into your active virtual environment:
+#   pip install -r requirements.txt
+#
+# `asyncio`, `threading`, and `multiprocessing` are in the standard library.
+# `aiohttp` is included for the HTTP client example in 01_asyncio.
+
+aiohttp>=3.9

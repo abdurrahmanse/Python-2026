@@ -1,0 +1,14 @@
+# Web and API dependencies.
+#
+# Install into your active virtual environment:
+#   pip install -r requirements.txt
+#
+# `http.server`, `urllib`, and `json` are part of the standard library
+# — no install needed for 01_http_basics and 04_json.
+# The examples in 02_requests, 03_rest_api, and 05_fastapi_flask
+# use the libraries below.
+
+requests>=2.31
+Flask>=3.0
+fastapi>=0.110
+uvicorn[standard]>=0.27
