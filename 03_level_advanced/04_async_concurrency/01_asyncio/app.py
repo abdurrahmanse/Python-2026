@@ -1,1 +1,10 @@
-print("Hello World")
+# Asyncio Example:
+
+
+import asyncio
+
+
+async def main():
+    print("Hello, World!")
+
+asyncio.run(main())
